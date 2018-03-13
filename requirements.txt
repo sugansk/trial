@@ -1,0 +1,12 @@
+Flask
+nltk.tokenize
+nltk.corpus
+collections
+string
+heapq
+urllib.request
+bs4
+json
+random
+flask_cors
+gensim.summarization
